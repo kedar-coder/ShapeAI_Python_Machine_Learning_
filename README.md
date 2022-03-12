@@ -24,3 +24,6 @@ href=
 be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
+
+  
+  LINEAR REGRESSION ON BOSTON HOUSING DATASET— Used a ML model to predict the value of prices of the house using NumPy, Pandas and Scikit-learn(sklearn) libraries.
